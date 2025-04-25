@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: papayawhip;
+    color: black;
+    margin: 20px;
+    padding: 0;
+}
+
+P {
+    font-style: italic;
+}
+
+h1 {
+    font:mediumblue
+    font-size:bold
+    border-bottom:bolder
+    padding-bottom::after
+}
+
+img 
+{
+border-radius: 8px;
+border-width: thick;
+margin-top: 10px;
+padding: 10px;
+border-color: green;
+}
+
+input[type="submit"]:hover 
+{
+background-color: blueviolet
+}
