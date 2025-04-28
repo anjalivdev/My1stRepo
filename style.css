@@ -109,3 +109,9 @@ margin-top: 20px;
 border: 1px solid #ccc;
 border-radius:8px;
 }
+/* Video and Audio */
+video, audio {
+    margin-top: 20px;
+    display: block;
+    }
+    
